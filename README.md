@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **Backend Development & Database Management System**
 - 💬 Ask me about **Node.js, Express, JavaScript, and APIs**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **parthbhawsariiitv9981@gmail.com**
 - ⚡ Fun fact: *I enjoy building things that live on the internet!*
 
 ---
