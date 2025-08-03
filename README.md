@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px">
+  <img src="https://media.giphy.com/media/1LweXxLwVT0J2/giphy.gif" width="300px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Parth Bhawsar</h1>
