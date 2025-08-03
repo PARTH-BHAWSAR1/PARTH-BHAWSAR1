@@ -81,7 +81,13 @@
 </p>
 
 ---
+### 🏆 LeetCode Stats
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/PARTH_BHAWSAR?theme=dark&font=Baloo%20Chettan%202&ext=heatmap" />
+</p>
+
+---
 ### 🌐 Connect with Me
 
 <p align="center">
