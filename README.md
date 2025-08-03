@@ -6,9 +6,9 @@
 
 <h3 align="center">A passionate Web Developer & Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **Backend Development, Databases & Machine Learning**
-- 💬 Ask me about **JavaScript, Node.js, APIs, Python, SQL, and Data Analysis**
+- 🔭 I’m currently working on **Web Development & Machine Learning Projects**
+- 🌱 I’m currently learning **Backend Development, Databases & Advanced Machine Learning**
+- 💬 Ask me about **JavaScript, Node.js, APIs, Python, SQL, Data Analysis, and Machine Learning**
 - 📫 Reach me at: **parthbhawsariiitv9981@gmail.com**
 - ⚡ Fun fact: *I enjoy building things that live on the internet and uncovering insights from data!*
 
@@ -20,8 +20,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
+![Socket.io](https://img.shields.io/badge/-Socket.io-333?style=flat-square&logo=socket.io)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/-Vite-333?style=flat-square&logo=vite)
 
 #### 📊 Data Analytics & ML
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
@@ -32,16 +36,20 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat-square&logo=keras)
-![Power BI](https://img.shields.io/badge/-PowerBI-333?style=flat-square&logo=powerbi)
 ![Excel](https://img.shields.io/badge/-Excel-333?style=flat-square&logo=microsoft-excel)
 
-#### 🧰 Tools
+#### 🧰 Tools & Other Skills
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat-square&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql)
+![REST API](https://img.shields.io/badge/-REST%20API-333?style=flat-square)
+![WebSockets](https://img.shields.io/badge/-WebSockets-333?style=flat-square)
+![Authentication](https://img.shields.io/badge/-Authentication-333?style=flat-square)
+![Authorization](https://img.shields.io/badge/-Authorization-333?style=flat-square)
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-333?style=flat-square)
 
 ---
 
@@ -50,10 +58,17 @@
 - [💖 Heart Disease Prediction](https://github.com/PARTH-BHAWSAR1/ML-Project)  
   Interactive Streamlit app using Logistic Regression, SVM, Random Forest, Decision Tree with CSV upload and downloadable results.
 
+- [🌧 Rainfall Prediction using Random Forest](https://github.com/PARTH-BHAWSAR1/ML-Project-4)  
+  ML model predicting rainfall from historical weather data, evaluated with MAE, MSE, and R² Score.
+
 - [🧠 Digit Image Generator using DCGAN](https://github.com/PARTH-BHAWSAR1/ML-Project-3)  
   Generated MNIST digit images using Deep Convolutional GAN (TensorFlow + Keras).
 
-- More projects coming soon...
+- [💬 Real-Time Chat Application](https://github.com/PARTH-BHAWSAR1/Chat-app)  
+  Instant messaging with Socket.io, authentication, chat rooms, and responsive UI.
+
+- [💻 Code Together](https://github.com/PARTH-BHAWSAR1/CodeTogether)  
+  Real-time collaborative code editor with WebSockets, syntax highlighting, and multi-language support.
 
 ---
 
